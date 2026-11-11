@@ -1,0 +1,12 @@
+{
+  "name": "nikah-invitation-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fictional Nikah invitation portfolio demo — static HTML, CSS and JavaScript",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
